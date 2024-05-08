@@ -14,7 +14,7 @@
 </style>
 <body >
     <div class="head relative border-b-8 border-slate-800" > 
-      <-- Add background image-->
+      <-- Add background image-- url:  https://d3o2718znwp36h.cloudfront.net/prod/uploads/2023/01/netflix-web.jpg>
                  <img class="object-cover w-full h-full " src="" alt="Background Image">
                 <div class="absolute inset-0 bg-black opacity-60"></div>
                 <div class="Logo"><p style="color: #c51821;" class="font-bold text-5xl absolute inset-0 w-40 ml-40 mt-10 ">NETFLIX</p></div>
